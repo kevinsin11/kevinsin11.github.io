@@ -1,10 +1,10 @@
 ---
 title: "Object Oriented Programming"
 collection: teaching
-type: "Undergraduate course"
+type: "University course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "First semester in wintec"
-date: 2023/11/1
+date: 2019/7/1
 location: "City, Country"
 ---
 
