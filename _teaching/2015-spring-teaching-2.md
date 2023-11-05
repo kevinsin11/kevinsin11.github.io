@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Web Development"
 collection: teaching
-type: "Workshop"
-
-venue: "University 1, Department"
-date: 2015-01-01
+type: "University course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "Second semester in wintec"
+date: 2021-02-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+The AIM of this module is to look at various aspects of web development: graphics, usability, website development including HTML, web development techniques using JavaScript and frameworks.
