@@ -2,7 +2,7 @@
 title: "Web Development"
 collection: teaching
 type: "University course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2014-spring-teaching-2
 venue: "Second semester in wintec"
 date: 2021-02-01
 location: "City, Country"
