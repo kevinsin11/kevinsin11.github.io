@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "ABOUT ME"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "KAILUN HUANG"
   avatar           : "photo1.png"
-  bio              : "ph:02108218910"
+  bio              : "ph:02108218910 email:kaihua15@student.wintec.ac.nz"
   location         : "Hamilton"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
