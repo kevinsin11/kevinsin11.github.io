@@ -1,6 +1,6 @@
 ---
 title: "Animation peripherals web shop"
-excerpt: "<br/><img src='/images/photo2.png'>"
+excerpt: "<br/><img src='/images/photo3.png'>"
 collection: portfolio
 ---
 
